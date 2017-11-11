@@ -1,7 +1,5 @@
 # ScalingDemo
 
-Dependencies -
-
 The project was developed with ES6 principles in mind.
 It uses Sails MVC framework to demo a basic creation of the schema on MongoDB database.
 
